@@ -7,8 +7,6 @@ import { fetchData } from './util'
 const ITEM_START_IDX = 4
 const ITEM_LIMIT = 5
 
-
-
 export default class App extends Component {
   state = {
     startIdx: ITEM_START_IDX,
