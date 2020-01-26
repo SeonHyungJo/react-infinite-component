@@ -38,7 +38,6 @@ export default class App extends Component {
           <img src='https://images.unsplash.com/photo-1579783135819-bbc4905aa3a5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixlib=rb-1.2.1&q=80&w=400' className={"innerDiv"} />
           <img src='https://images.unsplash.com/photo-1578763713067-ab058f88be3a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixlib=rb-1.2.1&q=80&w=400' className={"innerDiv"} />
           <img src='https://images.unsplash.com/photo-1578483001364-b508612cde4a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixlib=rb-1.2.1&q=80&w=400' className={"innerDiv"} />
-          <img src='https://images.unsplash.com/photo-1579783135819-bbc4905aa3a5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixlib=rb-1.2.1&q=80&w=400' className={"innerDiv"} />
           {
             this.state.itemList.map((item) => {
               return (
