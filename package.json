@@ -1,10 +1,13 @@
 {
   "name": "react-infinite-component",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "React Infinite Scroll Component",
   "author": "snyung",
   "license": "MIT",
-  "repository": "seonhyungjo/react-infinite-component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seonhyungjo/react-infinite-component.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -56,5 +59,19 @@
   },
   "files": [
     "dist"
+  ],
+  "bugs": {
+    "url": "https://github.com/seonhyungjo/react-infinite-component/issues"
+  },
+  "homepage": "http://github.com/seonhyungjo/react-infinite-component/",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "react",
+    "infinite-scroll",
+    "infinite",
+    "component",
+    "intersection-observer"
   ]
 }
