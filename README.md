@@ -22,7 +22,7 @@ npm install --save react-infinite-component
 ```tsx
 import * as React from 'react'
 
-import MyComponent from 'react-infinite-component'
+import InfiniteScroll from 'react-infinite-component'
 
 class Example extends React.Component {
   render () {
